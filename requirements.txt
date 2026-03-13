@@ -3,3 +3,4 @@ pandas
 openpyxl
 docxtpl
 num2words
+gTTS
